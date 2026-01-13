@@ -1,0 +1,5 @@
+{
+  "name": "SilentCut AI Studio",
+  "description": "An intelligent video processor that automatically detects and removes silent segments from your videos and audio files. Features real-time silence skipping preview and AI-powered content analysis using Gemini.",
+  "requestFramePermissions": []
+}
